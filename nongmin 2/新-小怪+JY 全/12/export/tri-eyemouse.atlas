@@ -1,0 +1,61 @@
+
+tri-eyemouse.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 2, 251
+  size: 535, 711
+  orig: 535, 711
+  offset: 0, 0
+  index: -1
+HandL
+  rotate: false
+  xy: 830, 694
+  size: 190, 268
+  orig: 190, 268
+  offset: 0, 0
+  index: -1
+HandR
+  rotate: false
+  xy: 830, 429
+  size: 176, 263
+  orig: 176, 263
+  offset: 0, 0
+  index: -1
+LegL
+  rotate: true
+  xy: 2, 29
+  size: 220, 404
+  orig: 220, 404
+  offset: 0, 0
+  index: -1
+LegR
+  rotate: false
+  xy: 408, 2
+  size: 226, 247
+  orig: 226, 247
+  offset: 0, 0
+  index: -1
+Tail
+  rotate: false
+  xy: 539, 307
+  size: 289, 655
+  orig: 289, 655
+  offset: 0, 0
+  index: -1
+
+tri-eyemouse2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Head
+  rotate: false
+  xy: 2, 2
+  size: 569, 551
+  orig: 569, 551
+  offset: 0, 0
+  index: -1

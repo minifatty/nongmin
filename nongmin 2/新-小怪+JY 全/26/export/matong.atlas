@@ -1,0 +1,47 @@
+
+matong.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BOdy
+  rotate: false
+  xy: 2, 2
+  size: 469, 473
+  orig: 469, 473
+  offset: 0, 0
+  index: -1
+Gun
+  rotate: false
+  xy: 2, 477
+  size: 589, 483
+  orig: 589, 483
+  offset: 0, 0
+  index: -1
+WaterBox
+  rotate: true
+  xy: 593, 468
+  size: 492, 394
+  orig: 492, 394
+  offset: 0, 0
+  index: -1
+Zuodian
+  rotate: false
+  xy: 473, 66
+  size: 463, 400
+  orig: 463, 400
+  offset: 0, 0
+  index: -1
+
+matong2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Gaizi
+  rotate: false
+  xy: 2, 2
+  size: 396, 436
+  orig: 396, 436
+  offset: 0, 0
+  index: -1

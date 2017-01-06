@@ -1,0 +1,75 @@
+
+greenbug.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 2, 298
+  size: 942, 718
+  orig: 942, 718
+  offset: 0, 0
+  index: -1
+ClawL_1
+  rotate: true
+  xy: 532, 42
+  size: 254, 197
+  orig: 254, 197
+  offset: 0, 0
+  index: -1
+ClawL_2
+  rotate: true
+  xy: 224, 124
+  size: 172, 306
+  orig: 172, 306
+  offset: 0, 0
+  index: -1
+ClawL_3
+  rotate: true
+  xy: 224, 2
+  size: 120, 295
+  orig: 120, 295
+  offset: 0, 0
+  index: -1
+ClawR_1
+  rotate: false
+  xy: 731, 120
+  size: 249, 176
+  orig: 249, 176
+  offset: 0, 0
+  index: -1
+ClawR_2
+  rotate: true
+  xy: 2, 12
+  size: 284, 220
+  orig: 284, 220
+  offset: 0, 0
+  index: -1
+
+greenbug2.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Chuxu
+  rotate: false
+  xy: 2, 133
+  size: 505, 371
+  orig: 505, 371
+  offset: 0, 0
+  index: -1
+ClawL_4
+  rotate: true
+  xy: 2, 2
+  size: 129, 358
+  orig: 129, 358
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: false
+  xy: 509, 333
+  size: 242, 171
+  orig: 242, 171
+  offset: 0, 0
+  index: -1

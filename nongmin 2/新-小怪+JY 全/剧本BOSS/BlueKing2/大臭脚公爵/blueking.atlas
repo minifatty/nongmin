@@ -1,0 +1,68 @@
+
+blueking.png
+size: 992,992
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 2, 219
+  size: 849, 771
+  orig: 849, 771
+  offset: 0, 0
+  index: -1
+Bone_1
+  rotate: false
+  xy: 853, 838
+  size: 65, 152
+  orig: 65, 152
+  offset: 0, 0
+  index: -1
+Bone_2
+  rotate: false
+  xy: 462, 91
+  size: 89, 126
+  orig: 89, 126
+  offset: 0, 0
+  index: -1
+Bone_3
+  rotate: false
+  xy: 920, 857
+  size: 70, 133
+  orig: 70, 133
+  offset: 0, 0
+  index: -1
+RightFoot
+  rotate: false
+  xy: 2, 24
+  size: 458, 193
+  orig: 458, 193
+  offset: 0, 0
+  index: -1
+
+blueking2.png
+size: 752,752
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Head
+  rotate: false
+  xy: 393, 357
+  size: 314, 393
+  orig: 314, 393
+  offset: 0, 0
+  index: -1
+LeftArm
+  rotate: false
+  xy: 2, 78
+  size: 389, 672
+  orig: 389, 672
+  offset: 0, 0
+  index: -1
+LeftFoot
+  rotate: false
+  xy: 393, 94
+  size: 357, 261
+  orig: 357, 261
+  offset: 0, 0
+  index: -1

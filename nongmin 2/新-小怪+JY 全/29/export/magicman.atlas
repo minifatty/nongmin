@@ -1,0 +1,55 @@
+
+magicman.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ArmL
+  rotate: false
+  xy: 2, 690
+  size: 475, 279
+  orig: 475, 279
+  offset: 0, 0
+  index: -1
+ArmR
+  rotate: false
+  xy: 2, 397
+  size: 427, 291
+  orig: 427, 291
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 2, 2
+  size: 291, 393
+  orig: 291, 393
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 479, 741
+  size: 228, 325
+  orig: 228, 325
+  offset: 0, 0
+  index: -1
+LegL
+  rotate: true
+  xy: 479, 501
+  size: 238, 270
+  orig: 238, 270
+  offset: 0, 0
+  index: -1
+LegR
+  rotate: false
+  xy: 806, 706
+  size: 173, 263
+  orig: 173, 263
+  offset: 0, 0
+  index: -1
+Tail
+  rotate: false
+  xy: 295, 113
+  size: 219, 282
+  orig: 219, 282
+  offset: 0, 0
+  index: -1

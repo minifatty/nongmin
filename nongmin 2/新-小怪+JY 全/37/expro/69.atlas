@@ -1,0 +1,48 @@
+
+69.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 2, 246
+  size: 783, 753
+  orig: 783, 753
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 1590, 185
+  size: 349, 401
+  orig: 349, 401
+  offset: 0, 0
+  index: -1
+LeftArm
+  rotate: true
+  xy: 787, 588
+  size: 224, 947
+  orig: 224, 947
+  offset: 0, 0
+  index: -1
+LeftLeg
+  rotate: true
+  xy: 787, 304
+  size: 282, 801
+  orig: 282, 801
+  offset: 0, 0
+  index: -1
+RightArm
+  rotate: true
+  xy: 787, 814
+  size: 185, 1004
+  orig: 185, 1004
+  offset: 0, 0
+  index: -1
+RightLeg
+  rotate: true
+  xy: 2, 2
+  size: 242, 714
+  orig: 242, 714
+  offset: 0, 0
+  index: -1

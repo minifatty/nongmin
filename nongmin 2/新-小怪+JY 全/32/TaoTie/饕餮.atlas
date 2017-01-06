@@ -1,0 +1,62 @@
+
+饕餮.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 2, 2
+  size: 327, 230
+  orig: 327, 230
+  offset: 0, 0
+  index: -1
+Chin_B
+  rotate: false
+  xy: 651, 85
+  size: 298, 147
+  orig: 298, 147
+  offset: 0, 0
+  index: -1
+Chin_T
+  rotate: false
+  xy: 331, 2
+  size: 318, 230
+  orig: 318, 230
+  offset: 0, 0
+  index: -1
+LeftHand
+  rotate: true
+  xy: 1105, 125
+  size: 107, 154
+  orig: 107, 154
+  offset: 0, 0
+  index: -1
+RightHand
+  rotate: true
+  xy: 1261, 138
+  size: 94, 128
+  orig: 94, 128
+  offset: 0, 0
+  index: -1
+Tail_1
+  rotate: true
+  xy: 651, 17
+  size: 66, 183
+  orig: 66, 183
+  offset: 0, 0
+  index: -1
+Tail_2
+  rotate: false
+  xy: 951, 90
+  size: 152, 142
+  orig: 152, 142
+  offset: 0, 0
+  index: -1
+Tail_3
+  rotate: true
+  xy: 1391, 170
+  size: 62, 152
+  orig: 62, 152
+  offset: 0, 0
+  index: -1

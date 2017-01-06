@@ -1,0 +1,41 @@
+
+parasite.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 2, 305
+  size: 812, 703
+  orig: 812, 703
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: false
+  xy: 816, 718
+  size: 133, 290
+  orig: 133, 290
+  offset: 0, 0
+  index: -1
+Foot
+  rotate: true
+  xy: 756, 7
+  size: 296, 219
+  orig: 296, 219
+  offset: 0, 0
+  index: -1
+WingsL
+  rotate: false
+  xy: 2, 2
+  size: 443, 301
+  orig: 443, 301
+  offset: 0, 0
+  index: -1
+WingsR
+  rotate: true
+  xy: 447, 88
+  size: 215, 307
+  orig: 215, 307
+  offset: 0, 0
+  index: -1

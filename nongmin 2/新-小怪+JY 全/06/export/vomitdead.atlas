@@ -1,0 +1,48 @@
+
+vomitdead.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ArmL
+  rotate: true
+  xy: 348, 826
+  size: 192, 576
+  orig: 192, 576
+  offset: 0, 0
+  index: -1
+ArmR
+  rotate: true
+  xy: 2, 71
+  size: 409, 333
+  orig: 409, 333
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 2, 482
+  size: 344, 536
+  orig: 344, 536
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 348, 231
+  size: 310, 407
+  orig: 310, 407
+  offset: 0, 0
+  index: -1
+LegL
+  rotate: true
+  xy: 348, 543
+  size: 281, 458
+  orig: 281, 458
+  offset: 0, 0
+  index: -1
+LegR
+  rotate: true
+  xy: 337, 2
+  size: 227, 375
+  orig: 227, 375
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,62 @@
+
+大69.png
+size: 4096,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: true
+  xy: 2, 320
+  size: 656, 1092
+  orig: 656, 1092
+  offset: 0, 0
+  index: -1
+BodyTop
+  rotate: false
+  xy: 2196, 403
+  size: 851, 573
+  orig: 851, 573
+  offset: 0, 0
+  index: -1
+Collar
+  rotate: false
+  xy: 3049, 541
+  size: 407, 435
+  orig: 407, 435
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 3458, 613
+  size: 316, 363
+  orig: 316, 363
+  offset: 0, 0
+  index: -1
+Left
+  rotate: true
+  xy: 1096, 606
+  size: 370, 1098
+  orig: 370, 1098
+  offset: 0, 0
+  index: -1
+LeftFoot
+  rotate: false
+  xy: 1096, 389
+  size: 375, 215
+  orig: 375, 215
+  offset: 0, 0
+  index: -1
+Right
+  rotate: true
+  xy: 2, 2
+  size: 316, 1044
+  orig: 316, 1044
+  offset: 0, 0
+  index: -1
+RightFoot
+  rotate: false
+  xy: 1473, 389
+  size: 375, 215
+  orig: 375, 215
+  offset: 0, 0
+  index: -1

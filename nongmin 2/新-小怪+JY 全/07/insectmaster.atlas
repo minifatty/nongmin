@@ -1,0 +1,61 @@
+
+insectmaster.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 2, 237
+  size: 698, 756
+  orig: 698, 756
+  offset: 0, 0
+  index: -1
+Bug_21
+  rotate: false
+  xy: 702, 786
+  size: 30, 25
+  orig: 30, 25
+  offset: 0, 0
+  index: -1
+Bug_22
+  rotate: false
+  xy: 409, 152
+  size: 82, 83
+  orig: 82, 83
+  offset: 0, 0
+  index: -1
+Bug_223
+  rotate: false
+  xy: 2, 2
+  size: 91, 143
+  orig: 91, 143
+  offset: 0, 0
+  index: -1
+Bug_3
+  rotate: false
+  xy: 702, 813
+  size: 157, 180
+  orig: 157, 180
+  offset: 0, 0
+  index: -1
+Water
+  rotate: false
+  xy: 2, 147
+  size: 405, 88
+  orig: 405, 88
+  offset: 0, 0
+  index: -1
+
+insectmaster2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Face
+  rotate: false
+  xy: 2, 2
+  size: 456, 337
+  orig: 456, 337
+  offset: 0, 0
+  index: -1

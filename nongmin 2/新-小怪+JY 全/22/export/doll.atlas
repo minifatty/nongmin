@@ -1,0 +1,62 @@
+
+doll.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 2, 470
+  size: 562, 494
+  orig: 562, 494
+  offset: 0, 0
+  index: -1
+EyeL
+  rotate: false
+  xy: 599, 243
+  size: 138, 136
+  orig: 138, 136
+  offset: 0, 0
+  index: -1
+EyeR
+  rotate: false
+  xy: 889, 817
+  size: 133, 147
+  orig: 133, 147
+  offset: 0, 0
+  index: -1
+FootL
+  rotate: false
+  xy: 566, 680
+  size: 321, 284
+  orig: 321, 284
+  offset: 0, 0
+  index: -1
+FootR
+  rotate: false
+  xy: 2, 182
+  size: 329, 286
+  orig: 329, 286
+  offset: 0, 0
+  index: -1
+HandL
+  rotate: false
+  xy: 333, 170
+  size: 264, 298
+  orig: 264, 298
+  offset: 0, 0
+  index: -1
+HandR
+  rotate: false
+  xy: 599, 381
+  size: 248, 297
+  orig: 248, 297
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 2, 2
+  size: 218, 178
+  orig: 218, 178
+  offset: 0, 0
+  index: -1

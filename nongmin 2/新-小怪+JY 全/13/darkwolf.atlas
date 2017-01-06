@@ -1,0 +1,55 @@
+
+darkwolf.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Head
+  rotate: false
+  xy: 2, 164
+  size: 357, 452
+  orig: 357, 452
+  offset: 0, 0
+  index: -1
+LegL_1
+  rotate: false
+  xy: 361, 103
+  size: 218, 513
+  orig: 218, 513
+  offset: 0, 0
+  index: -1
+LegL_2
+  rotate: false
+  xy: 581, 157
+  size: 200, 459
+  orig: 200, 459
+  offset: 0, 0
+  index: -1
+LegR_1
+  rotate: true
+  xy: 591, 750
+  size: 227, 409
+  orig: 227, 409
+  offset: 0, 0
+  index: -1
+LegR_2
+  rotate: false
+  xy: 783, 291
+  size: 166, 457
+  orig: 166, 457
+  offset: 0, 0
+  index: -1
+Tail
+  rotate: true
+  xy: 2, 2
+  size: 160, 319
+  orig: 160, 319
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 618
+  size: 587, 359
+  orig: 587, 359
+  offset: 0, 0
+  index: -1

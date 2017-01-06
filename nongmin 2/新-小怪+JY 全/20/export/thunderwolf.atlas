@@ -1,0 +1,55 @@
+
+thunderwolf.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 2, 625
+  size: 490, 397
+  orig: 490, 397
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 2, 195
+  size: 330, 428
+  orig: 330, 428
+  offset: 0, 0
+  index: -1
+LegL_1
+  rotate: false
+  xy: 334, 222
+  size: 173, 401
+  orig: 173, 401
+  offset: 0, 0
+  index: -1
+LegL_2
+  rotate: false
+  xy: 788, 625
+  size: 210, 397
+  orig: 210, 397
+  offset: 0, 0
+  index: -1
+LegR_1
+  rotate: false
+  xy: 509, 323
+  size: 114, 353
+  orig: 114, 353
+  offset: 0, 0
+  index: -1
+LegR_2
+  rotate: false
+  xy: 494, 678
+  size: 292, 344
+  orig: 292, 344
+  offset: 0, 0
+  index: -1
+Tail
+  rotate: true
+  xy: 2, 2
+  size: 191, 380
+  orig: 191, 380
+  offset: 0, 0
+  index: -1

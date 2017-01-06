@@ -1,0 +1,41 @@
+
+StoneMan.png
+size: 491,491
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 2, 176
+  size: 300, 313
+  orig: 300, 313
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 301, 2
+  size: 122, 81
+  orig: 122, 81
+  offset: 0, 0
+  index: -1
+LeftHand
+  rotate: true
+  xy: 2, 47
+  size: 127, 297
+  orig: 127, 297
+  offset: 0, 0
+  index: -1
+LeftLeg
+  rotate: false
+  xy: 304, 284
+  size: 153, 205
+  orig: 153, 205
+  offset: 0, 0
+  index: -1
+RightLeg
+  rotate: false
+  xy: 304, 85
+  size: 116, 197
+  orig: 116, 197
+  offset: 0, 0
+  index: -1

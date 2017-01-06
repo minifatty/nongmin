@@ -1,0 +1,62 @@
+
+Boss.png
+size: 4096,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bag
+  rotate: true
+  xy: 443, 16
+  size: 189, 243
+  orig: 189, 243
+  offset: 0, 0
+  index: -1
+Body
+  rotate: true
+  xy: 789, 8
+  size: 445, 557
+  orig: 445, 557
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 1895, 76
+  size: 475, 377
+  orig: 475, 377
+  offset: 0, 0
+  index: -1
+Key
+  rotate: true
+  xy: 2777, 188
+  size: 265, 304
+  orig: 265, 304
+  offset: 0, 0
+  index: -1
+LeftArm
+  rotate: true
+  xy: 2, 207
+  size: 246, 785
+  orig: 246, 785
+  offset: 0, 0
+  index: -1
+LeftLeg
+  rotate: true
+  xy: 2, 2
+  size: 203, 439
+  orig: 203, 439
+  offset: 0, 0
+  index: -1
+RightArm
+  rotate: false
+  xy: 1348, 137
+  size: 545, 316
+  orig: 545, 316
+  offset: 0, 0
+  index: -1
+RightLeg
+  rotate: true
+  xy: 2372, 227
+  size: 226, 403
+  orig: 233, 403
+  offset: 7, 0
+  index: -1

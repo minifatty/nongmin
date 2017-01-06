@@ -1,0 +1,55 @@
+
+insectmaster.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 2, 129
+  size: 348, 377
+  orig: 349, 378
+  offset: 1, 1
+  index: -1
+Bug_1
+  rotate: false
+  xy: 352, 165
+  size: 60, 66
+  orig: 60, 66
+  offset: 0, 0
+  index: -1
+Bug_2
+  rotate: false
+  xy: 582, 409
+  size: 88, 97
+  orig: 88, 97
+  offset: 0, 0
+  index: -1
+Bug_3
+  rotate: true
+  xy: 2, 2
+  size: 79, 90
+  orig: 79, 90
+  offset: 0, 0
+  index: -1
+Bug_4
+  rotate: false
+  xy: 352, 233
+  size: 90, 102
+  orig: 90, 103
+  offset: 0, 0
+  index: -1
+Face
+  rotate: false
+  xy: 352, 337
+  size: 228, 169
+  orig: 228, 169
+  offset: 0, 0
+  index: -1
+Water
+  rotate: false
+  xy: 2, 83
+  size: 203, 44
+  orig: 203, 44
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,24 @@
+{"skeleton":{"images":"images/"},
+"bones":[{"name":"root"}],
+"slots":[
+	{"name":"youjiao","bone":"root","attachment":"youjiao"},
+	{"name":"youshou","bone":"root","attachment":"youshou"},
+	{"name":"bei","bone":"root","attachment":"bei"},
+	{"name":"shenti","bone":"root","attachment":"shenti"},
+	{"name":"zuojiao","bone":"root","attachment":"zuojiao"},
+	{"name":"zuoshou","bone":"root","attachment":"zuoshou"},
+	{"name":"TOU","bone":"root","attachment":"TOU"}
+],
+"skins":{
+	"default":{
+		"TOU":{"TOU":{"x":1121.5,"y":2434.5,"width":823,"height":1193}},
+		"zuoshou":{"zuoshou":{"x":1655,"y":1291.5,"width":564,"height":1091}},
+		"zuojiao":{"zuojiao":{"x":1334.5,"y":1019.5,"width":467,"height":859}},
+		"shenti":{"shenti":{"x":1183,"y":1567,"width":888,"height":1054}},
+		"bei":{"bei":{"x":1757.5,"y":2307.5,"width":1163,"height":1141}},
+		"youshou":{"youshou":{"x":667,"y":1373,"width":732,"height":1024}},
+		"youjiao":{"youjiao":{"x":832,"y":1052.5,"width":452,"height":817}}
+	}
+},
+"animations":{"animation":{}}
+}

@@ -1,0 +1,75 @@
+
+wasp.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ass
+  rotate: false
+  xy: 2, 200
+  size: 496, 806
+  orig: 496, 806
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 2, 2
+  size: 384, 196
+  orig: 384, 196
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 717, 245
+  size: 338, 269
+  orig: 338, 269
+  offset: 0, 0
+  index: -1
+WingL_1
+  rotate: true
+  xy: 500, 585
+  size: 421, 499
+  orig: 421, 499
+  offset: 0, 0
+  index: -1
+WingL_2
+  rotate: false
+  xy: 388, 3
+  size: 495, 195
+  orig: 495, 195
+  offset: 0, 0
+  index: -1
+WingR_2
+  rotate: true
+  xy: 500, 236
+  size: 347, 215
+  orig: 347, 215
+  offset: 0, 0
+  index: -1
+
+wasp2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Claw_1
+  rotate: false
+  xy: 2, 2
+  size: 535, 193
+  orig: 535, 193
+  offset: 0, 0
+  index: -1
+Claw_2
+  rotate: false
+  xy: 2, 636
+  size: 548, 332
+  orig: 548, 332
+  offset: 0, 0
+  index: -1
+WingR_1
+  rotate: false
+  xy: 2, 197
+  size: 436, 437
+  orig: 436, 437
+  offset: 0, 0
+  index: -1

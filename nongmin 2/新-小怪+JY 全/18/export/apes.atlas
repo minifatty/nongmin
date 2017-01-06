@@ -1,0 +1,68 @@
+
+apes.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ArmR
+  rotate: true
+  xy: 2, 2
+  size: 283, 566
+  orig: 283, 566
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 2, 287
+  size: 551, 662
+  orig: 551, 662
+  offset: 0, 0
+  index: -1
+Tail
+  rotate: false
+  xy: 555, 392
+  size: 461, 557
+  orig: 461, 557
+  offset: 0, 0
+  index: -1
+Weapon
+  rotate: false
+  xy: 570, 137
+  size: 452, 253
+  orig: 452, 253
+  offset: 0, 0
+  index: -1
+
+apes2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ArmL
+  rotate: false
+  xy: 2, 370
+  size: 359, 635
+  orig: 359, 635
+  offset: 0, 0
+  index: -1
+FootL
+  rotate: false
+  xy: 363, 746
+  size: 227, 259
+  orig: 227, 259
+  offset: 0, 0
+  index: -1
+FootR
+  rotate: false
+  xy: 592, 765
+  size: 243, 240
+  orig: 243, 240
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 2, 2
+  size: 290, 366
+  orig: 290, 366
+  offset: 0, 0
+  index: -1

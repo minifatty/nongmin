@@ -1,0 +1,24 @@
+{"skeleton":{"images":"../houzi/images/"},
+"bones":[{"name":"root"}],
+"slots":[
+	{"name":"weiba","bone":"root","attachment":"weiba"},
+	{"name":"youtui","bone":"root","attachment":"youtui"},
+	{"name":"youshou","bone":"root","attachment":"youshou"},
+	{"name":"zuotui","bone":"root","attachment":"zuotui"},
+	{"name":"shenti","bone":"root","attachment":"shenti"},
+	{"name":"zuoshou","bone":"root","attachment":"zuoshou"},
+	{"name":"tou","bone":"root","attachment":"tou"}
+],
+"skins":{
+	"default":{
+		"tou":{"tou":{"x":551.5,"y":2352.5,"width":887,"height":1081}},
+		"zuoshou":{"zuoshou":{"x":1124.5,"y":1528.5,"width":291,"height":997}},
+		"shenti":{"shenti":{"x":1098.5,"y":1909.5,"width":1115,"height":995}},
+		"zuotui":{"zuotui":{"x":1805,"y":1469.5,"width":818,"height":517}},
+		"youshou":{"youshou":{"x":806.5,"y":1557.5,"width":301,"height":947}},
+		"youtui":{"youtui":{"x":724.5,"y":1388,"width":979,"height":666}},
+		"weiba":{"weiba":{"x":1751.5,"y":2105,"width":967,"height":1202}}
+	}
+},
+"animations":{"animation":{}}
+}

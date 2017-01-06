@@ -1,0 +1,83 @@
+
+greenspider.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 2, 544
+  size: 553, 434
+  orig: 553, 434
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: false
+  xy: 565, 16
+  size: 124, 171
+  orig: 124, 171
+  offset: 0, 0
+  index: -1
+FootL_1
+  rotate: false
+  xy: 557, 731
+  size: 209, 247
+  orig: 209, 247
+  offset: 0, 0
+  index: -1
+FootL_2
+  rotate: false
+  xy: 236, 27
+  size: 155, 515
+  orig: 155, 515
+  offset: 0, 0
+  index: -1
+FootL_3
+  rotate: false
+  xy: 2, 2
+  size: 232, 540
+  orig: 232, 540
+  offset: 0, 0
+  index: -1
+FootR_1
+  rotate: false
+  xy: 935, 828
+  size: 73, 150
+  orig: 73, 150
+  offset: 0, 0
+  index: -1
+FootR_2
+  rotate: false
+  xy: 565, 189
+  size: 123, 540
+  orig: 123, 540
+  offset: 0, 0
+  index: -1
+FootR_3
+  rotate: false
+  xy: 393, 47
+  size: 170, 495
+  orig: 170, 495
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 768, 776
+  size: 165, 202
+  orig: 165, 202
+  offset: 0, 0
+  index: -1
+MouthL
+  rotate: true
+  xy: 690, 634
+  size: 95, 75
+  orig: 95, 75
+  offset: 0, 0
+  index: -1
+MouthR
+  rotate: true
+  xy: 690, 535
+  size: 97, 51
+  orig: 97, 51
+  offset: 0, 0
+  index: -1

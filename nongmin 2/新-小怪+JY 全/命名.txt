@@ -1,0 +1,8 @@
+attack--攻击
+skill--技能
+hurt-受击
+idle-待机
+death--死亡
+
+daodi01--倒地的瞬间动作，倒地结束后起立就用这个动作倒放。
+daodi02--倒地状态持续动作

@@ -1,0 +1,110 @@
+
+skeletons.png
+size: 1021,1021
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+master/Body
+  rotate: false
+  xy: 548, 524
+  size: 470, 495
+  orig: 470, 495
+  offset: 0, 0
+  index: -1
+master/FootL
+  rotate: false
+  xy: 868, 25
+  size: 125, 95
+  orig: 125, 95
+  offset: 0, 0
+  index: -1
+master/HandR
+  rotate: true
+  xy: 868, 122
+  size: 149, 151
+  orig: 149, 151
+  offset: 0, 0
+  index: -1
+master/Hat
+  rotate: false
+  xy: 2, 438
+  size: 544, 581
+  orig: 544, 581
+  offset: 0, 0
+  index: -1
+master/Head
+  rotate: false
+  xy: 2, 60
+  size: 599, 376
+  orig: 599, 376
+  offset: 0, 0
+  index: -1
+master/TopLegL
+  rotate: false
+  xy: 603, 7
+  size: 263, 264
+  orig: 263, 264
+  offset: 0, 0
+  index: -1
+master/Weapon
+  rotate: true
+  xy: 603, 273
+  size: 249, 396
+  orig: 249, 396
+  offset: 0, 0
+  index: -1
+
+skeletons2.png
+size: 502,502
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+master/ArmR
+  rotate: false
+  xy: 180, 119
+  size: 200, 163
+  orig: 200, 163
+  offset: 0, 0
+  index: -1
+master/FootR
+  rotate: false
+  xy: 345, 16
+  size: 155, 95
+  orig: 155, 95
+  offset: 0, 0
+  index: -1
+master/HandL
+  rotate: false
+  xy: 2, 286
+  size: 254, 214
+  orig: 254, 214
+  offset: 0, 0
+  index: -1
+master/LowLegL
+  rotate: true
+  xy: 180, 14
+  size: 103, 163
+  orig: 103, 163
+  offset: 0, 0
+  index: -1
+master/LowLegR
+  rotate: false
+  xy: 382, 113
+  size: 113, 169
+  orig: 113, 169
+  offset: 0, 0
+  index: -1
+master/ShoulderR
+  rotate: false
+  xy: 2, 79
+  size: 176, 205
+  orig: 176, 205
+  offset: 0, 0
+  index: -1
+master/TopLegR
+  rotate: false
+  xy: 258, 284
+  size: 196, 216
+  orig: 196, 216
+  offset: 0, 0
+  index: -1

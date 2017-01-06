@@ -1,0 +1,54 @@
+
+unknow.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Eye
+  rotate: true
+  xy: 604, 487
+  size: 464, 265
+  orig: 464, 265
+  offset: 0, 0
+  index: -1
+Eye_red
+  rotate: false
+  xy: 2, 2
+  size: 482, 438
+  orig: 482, 438
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 2, 442
+  size: 600, 509
+  orig: 600, 509
+  offset: 0, 0
+  index: -1
+Pattern_1
+  rotate: true
+  xy: 705, 138
+  size: 347, 171
+  orig: 347, 171
+  offset: 0, 0
+  index: -1
+Pattern_2
+  rotate: true
+  xy: 486, 83
+  size: 357, 217
+  orig: 357, 217
+  offset: 0, 0
+  index: -1
+
+unknow2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Tail
+  rotate: false
+  xy: 2, 2
+  size: 513, 555
+  orig: 513, 555
+  offset: 0, 0
+  index: -1

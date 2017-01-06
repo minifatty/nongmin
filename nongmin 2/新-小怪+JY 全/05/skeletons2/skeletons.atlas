@@ -1,0 +1,300 @@
+
+skeletons.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+archer/ArmR
+  rotate: true
+  xy: 1774, 173
+  size: 100, 79
+  orig: 100, 81
+  offset: 0, 2
+  index: -1
+archer/Arrow
+  rotate: false
+  xy: 615, 352
+  size: 360, 158
+  orig: 381, 158
+  offset: 0, 0
+  index: -1
+archer/Body
+  rotate: true
+  xy: 1594, 275
+  size: 235, 248
+  orig: 235, 248
+  offset: 0, 0
+  index: -1
+archer/FootL
+  rotate: true
+  xy: 246, 2
+  size: 63, 48
+  orig: 63, 48
+  offset: 0, 0
+  index: -1
+archer/FootR
+  rotate: true
+  xy: 1269, 25
+  size: 78, 48
+  orig: 79, 48
+  offset: 0, 0
+  index: -1
+archer/HandL
+  rotate: true
+  xy: 895, 48
+  size: 127, 106
+  orig: 127, 106
+  offset: 0, 0
+  index: -1
+archer/HandR
+  rotate: true
+  xy: 1696, 103
+  size: 70, 72
+  orig: 70, 72
+  offset: 0, 0
+  index: -1
+archer/Head
+  rotate: false
+  xy: 761, 177
+  size: 214, 173
+  orig: 300, 173
+  offset: 0, 0
+  index: -1
+archer/LowLegL
+  rotate: false
+  xy: 1107, 11
+  size: 52, 82
+  orig: 52, 82
+  offset: 0, 0
+  index: -1
+archer/LowLegR
+  rotate: true
+  xy: 396, 8
+  size: 57, 85
+  orig: 57, 85
+  offset: 0, 0
+  index: -1
+archer/Quiver
+  rotate: true
+  xy: 2, 13
+  size: 204, 242
+  orig: 204, 242
+  offset: 0, 0
+  index: -1
+archer/ShoulderR
+  rotate: false
+  xy: 1945, 192
+  size: 88, 102
+  orig: 88, 103
+  offset: 0, 0
+  index: -1
+archer/TopLegL
+  rotate: false
+  xy: 761, 43
+  size: 132, 132
+  orig: 132, 132
+  offset: 0, 0
+  index: -1
+archer/TopLegR
+  rotate: true
+  xy: 1132, 101
+  size: 99, 108
+  orig: 99, 108
+  offset: 0, 0
+  index: -1
+archer/Weapon
+  rotate: true
+  xy: 274, 304
+  size: 206, 339
+  orig: 206, 339
+  offset: 0, 0
+  index: -1
+master/ArmR
+  rotate: false
+  xy: 1344, 106
+  size: 100, 80
+  orig: 100, 82
+  offset: 0, 2
+  index: -1
+master/Body
+  rotate: true
+  xy: 274, 67
+  size: 235, 248
+  orig: 235, 248
+  offset: 0, 0
+  index: -1
+master/FootL
+  rotate: true
+  xy: 296, 2
+  size: 63, 48
+  orig: 63, 48
+  offset: 0, 0
+  index: -1
+master/FootR
+  rotate: true
+  xy: 1319, 25
+  size: 78, 48
+  orig: 78, 48
+  offset: 0, 0
+  index: -1
+master/HandL
+  rotate: true
+  xy: 1177, 202
+  size: 127, 107
+  orig: 127, 107
+  offset: 0, 0
+  index: -1
+master/HandR
+  rotate: false
+  xy: 1446, 110
+  size: 75, 76
+  orig: 75, 76
+  offset: 0, 0
+  index: -1
+master/Hat
+  rotate: false
+  xy: 2, 219
+  size: 270, 291
+  orig: 272, 291
+  offset: 2, 0
+  index: -1
+master/Head
+  rotate: true
+  xy: 1844, 296
+  size: 214, 187
+  orig: 300, 188
+  offset: 0, 1
+  index: -1
+master/LowLegL
+  rotate: false
+  xy: 1161, 17
+  size: 52, 82
+  orig: 52, 82
+  offset: 0, 0
+  index: -1
+master/LowLegR
+  rotate: true
+  xy: 1610, 116
+  size: 57, 84
+  orig: 57, 85
+  offset: 0, 1
+  index: -1
+master/ShoulderR
+  rotate: false
+  xy: 1855, 191
+  size: 88, 103
+  orig: 88, 103
+  offset: 0, 0
+  index: -1
+master/TopLegL
+  rotate: false
+  xy: 1286, 188
+  size: 132, 132
+  orig: 132, 132
+  offset: 0, 0
+  index: -1
+master/TopLegR
+  rotate: true
+  xy: 1554, 175
+  size: 98, 108
+  orig: 98, 108
+  offset: 0, 0
+  index: -1
+master/Weapon
+  rotate: true
+  xy: 977, 204
+  size: 125, 198
+  orig: 125, 198
+  offset: 0, 0
+  index: -1
+swordsman/ArmR
+  rotate: false
+  xy: 1242, 105
+  size: 100, 81
+  orig: 100, 81
+  offset: 0, 0
+  index: -1
+swordsman/Body
+  rotate: false
+  xy: 524, 54
+  size: 235, 248
+  orig: 235, 248
+  offset: 0, 0
+  index: -1
+swordsman/FootL
+  rotate: true
+  xy: 346, 2
+  size: 63, 48
+  orig: 63, 48
+  offset: 0, 0
+  index: -1
+swordsman/FootR
+  rotate: true
+  xy: 1369, 26
+  size: 78, 48
+  orig: 78, 48
+  offset: 0, 0
+  index: -1
+swordsman/HandL
+  rotate: false
+  xy: 1003, 95
+  size: 127, 107
+  orig: 127, 107
+  offset: 0, 0
+  index: -1
+swordsman/HandR
+  rotate: true
+  xy: 1770, 101
+  size: 70, 72
+  orig: 70, 72
+  offset: 0, 0
+  index: -1
+swordsman/Head
+  rotate: false
+  xy: 1293, 322
+  size: 299, 188
+  orig: 300, 188
+  offset: 0, 0
+  index: -1
+swordsman/LowLegL
+  rotate: false
+  xy: 1215, 17
+  size: 52, 82
+  orig: 52, 82
+  offset: 0, 0
+  index: -1
+swordsman/LowLegR
+  rotate: true
+  xy: 1523, 116
+  size: 57, 85
+  orig: 57, 85
+  offset: 0, 0
+  index: -1
+swordsman/ShoulderR
+  rotate: true
+  xy: 1003, 5
+  size: 88, 102
+  orig: 88, 102
+  offset: 0, 0
+  index: -1
+swordsman/TopLegL
+  rotate: false
+  xy: 1420, 188
+  size: 132, 132
+  orig: 132, 132
+  offset: 0, 0
+  index: -1
+swordsman/TopLegR
+  rotate: true
+  xy: 1664, 175
+  size: 98, 108
+  orig: 98, 108
+  offset: 0, 0
+  index: -1
+swordsman/Weapon
+  rotate: true
+  xy: 977, 331
+  size: 179, 314
+  orig: 179, 315
+  offset: 0, 0
+  index: -1

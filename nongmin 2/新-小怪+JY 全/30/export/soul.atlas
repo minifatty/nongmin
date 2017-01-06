@@ -1,0 +1,41 @@
+
+soul.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ArmL
+  rotate: false
+  xy: 480, 267
+  size: 252, 645
+  orig: 252, 645
+  offset: 0, 0
+  index: -1
+ArmR
+  rotate: false
+  xy: 734, 333
+  size: 256, 579
+  orig: 256, 579
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 2, 218
+  size: 476, 694
+  orig: 476, 694
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: false
+  xy: 2, 2
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 2, 76
+  size: 176, 140
+  orig: 176, 140
+  offset: 0, 0
+  index: -1

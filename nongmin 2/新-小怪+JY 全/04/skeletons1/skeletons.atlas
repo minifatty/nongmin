@@ -1,0 +1,111 @@
+
+skeletons.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+archer/ArmR
+  rotate: false
+  xy: 1892, 158
+  size: 100, 79
+  orig: 100, 81
+  offset: 0, 2
+  index: -1
+archer/Arrow
+  rotate: false
+  xy: 343, 79
+  size: 360, 158
+  orig: 381, 158
+  offset: 0, 0
+  index: -1
+archer/Body
+  rotate: true
+  xy: 705, 2
+  size: 235, 248
+  orig: 235, 248
+  offset: 0, 0
+  index: -1
+archer/FootL
+  rotate: false
+  xy: 584, 29
+  size: 63, 48
+  orig: 63, 48
+  offset: 0, 0
+  index: -1
+archer/FootR
+  rotate: false
+  xy: 504, 29
+  size: 78, 48
+  orig: 79, 48
+  offset: 0, 0
+  index: -1
+archer/HandL
+  rotate: false
+  xy: 1549, 131
+  size: 127, 106
+  orig: 127, 106
+  offset: 0, 0
+  index: -1
+archer/HandR
+  rotate: true
+  xy: 430, 7
+  size: 70, 72
+  orig: 70, 72
+  offset: 0, 0
+  index: -1
+archer/Head
+  rotate: false
+  xy: 1199, 64
+  size: 214, 173
+  orig: 300, 173
+  offset: 0, 0
+  index: -1
+archer/LowLegL
+  rotate: false
+  xy: 1994, 155
+  size: 52, 82
+  orig: 52, 82
+  offset: 0, 0
+  index: -1
+archer/LowLegR
+  rotate: true
+  xy: 343, 20
+  size: 57, 85
+  orig: 57, 85
+  offset: 0, 0
+  index: -1
+archer/Quiver
+  rotate: true
+  xy: 955, 33
+  size: 204, 242
+  orig: 204, 242
+  offset: 0, 0
+  index: -1
+archer/ShoulderR
+  rotate: true
+  xy: 1788, 149
+  size: 88, 102
+  orig: 88, 103
+  offset: 0, 0
+  index: -1
+archer/TopLegL
+  rotate: false
+  xy: 1415, 105
+  size: 132, 132
+  orig: 132, 132
+  offset: 0, 0
+  index: -1
+archer/TopLegR
+  rotate: true
+  xy: 1678, 138
+  size: 99, 108
+  orig: 99, 108
+  offset: 0, 0
+  index: -1
+archer/Weapon
+  rotate: true
+  xy: 2, 31
+  size: 206, 339
+  orig: 206, 339
+  offset: 0, 0
+  index: -1

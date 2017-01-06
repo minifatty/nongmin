@@ -1,0 +1,97 @@
+
+skeletons.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+swordsman/ArmR
+  rotate: false
+  xy: 1222, 172
+  size: 100, 81
+  orig: 100, 81
+  offset: 0, 0
+  index: -1
+swordsman/Body
+  rotate: true
+  xy: 619, 18
+  size: 235, 248
+  orig: 235, 248
+  offset: 0, 0
+  index: -1
+swordsman/FootL
+  rotate: false
+  xy: 160, 24
+  size: 63, 48
+  orig: 63, 48
+  offset: 0, 0
+  index: -1
+swordsman/FootR
+  rotate: false
+  xy: 1411, 205
+  size: 78, 48
+  orig: 78, 48
+  offset: 0, 0
+  index: -1
+swordsman/HandL
+  rotate: false
+  xy: 1003, 146
+  size: 127, 107
+  orig: 127, 107
+  offset: 0, 0
+  index: -1
+swordsman/HandR
+  rotate: true
+  xy: 2, 2
+  size: 70, 72
+  orig: 70, 72
+  offset: 0, 0
+  index: -1
+swordsman/Head
+  rotate: false
+  xy: 318, 65
+  size: 299, 188
+  orig: 300, 188
+  offset: 0, 0
+  index: -1
+swordsman/LowLegL
+  rotate: true
+  xy: 76, 20
+  size: 52, 82
+  orig: 52, 82
+  offset: 0, 0
+  index: -1
+swordsman/LowLegR
+  rotate: true
+  xy: 1324, 196
+  size: 57, 85
+  orig: 57, 85
+  offset: 0, 0
+  index: -1
+swordsman/ShoulderR
+  rotate: false
+  xy: 1132, 151
+  size: 88, 102
+  orig: 88, 102
+  offset: 0, 0
+  index: -1
+swordsman/TopLegL
+  rotate: false
+  xy: 869, 121
+  size: 132, 132
+  orig: 132, 132
+  offset: 0, 0
+  index: -1
+swordsman/TopLegR
+  rotate: true
+  xy: 869, 21
+  size: 98, 108
+  orig: 98, 108
+  offset: 0, 0
+  index: -1
+swordsman/Weapon
+  rotate: true
+  xy: 2, 74
+  size: 179, 314
+  orig: 179, 315
+  offset: 0, 0
+  index: -1
